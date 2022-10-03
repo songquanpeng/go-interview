@@ -1,6 +1,10 @@
 # Golang 面试准备
 > 包含经典代码实现，阅读资料以及其他资源的汇总
 
+![License](https://img.shields.io/github/license/songquanpeng/go-interview?color=brightgreen)
+[![Test](https://github.com/songquanpeng/go-interview/actions/workflows/test.yml/badge.svg)](https://github.com/songquanpeng/go-interview/actions/workflows/test.yml)
+![Report](https://goreportcard.com/badge/github.com/songquanpeng/go-interview)
+
 ## 基本语法
 ### 关键字
 + [ ] var / const / type
